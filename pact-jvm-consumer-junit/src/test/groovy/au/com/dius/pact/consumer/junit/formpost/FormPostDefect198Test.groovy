@@ -1,7 +1,7 @@
 package au.com.dius.pact.consumer.junit.formpost
 
 import au.com.dius.pact.consumer.Pact
-import au.com.dius.pact.consumer.PactProviderRuleMk2
+
 import au.com.dius.pact.consumer.PactVerification
 import au.com.dius.pact.consumer.dsl.PactDslWithProvider
 import au.com.dius.pact.model.RequestResponsePact

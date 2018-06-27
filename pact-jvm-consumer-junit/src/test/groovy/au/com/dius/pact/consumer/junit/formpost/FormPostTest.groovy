@@ -1,6 +1,6 @@
 package au.com.dius.pact.consumer.junit.formpost
 
-import au.com.dius.pact.consumer.ConsumerPactTestMk2
+
 import au.com.dius.pact.consumer.MockServer
 import au.com.dius.pact.consumer.dsl.PactDslJsonBody
 import au.com.dius.pact.consumer.dsl.PactDslWithProvider
