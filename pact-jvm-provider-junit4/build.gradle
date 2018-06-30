@@ -1,7 +1,8 @@
 dependencies {
-    compile project(":pact-jvm-provider_${project.scalaVersion}"),
+    compile project(":pact-jvm-provider-junit_${project.scalaVersion}"),
       "org.apache.httpcomponents:fluent-hc:${project.httpClientVersion}",
       "org.apache.httpcomponents:httpclient:${project.httpClientVersion}",
+      "junit:junit:${project.junitVersion}",
       "org.apache.commons:commons-lang3:${project.commonsLang3Version}",
       "com.fasterxml.jackson.core:jackson-databind:${project.jacksonDatabindVersion}",
       'org.jooq:jool:0.9.11'
